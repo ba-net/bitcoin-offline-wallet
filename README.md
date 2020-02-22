@@ -27,12 +27,12 @@ BA.net Bitcoin Offline Wallet</a>
 <p><a href="https://github.com/ba-net/bitcoin-cash-offline-wallet" target=_blank> 
 GitHub</a>      
 
-<p><br>
 <p><a href="https://itunes.apple.com/us/app/pro-bitcoin/id1003923093?ls=1&mt=12" target=_blank>                                                          
 Buy BTC Vault App on the Apple MacStore                                     
 <img src="https://ba.net/gifs/appleicon.png" width=20 height=20>             
 </a>                                                             
 
+<p><br>
 <center>
 <a href="https://ba.net/bitcoin-pay-button/"
 target=_top>
